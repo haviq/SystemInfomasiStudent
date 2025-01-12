@@ -1,0 +1,45 @@
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\bin\Debug\Student Information System.xml
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\Student_Information_System.Resources.resources
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\Student Information System.vbproj.GenerateResource.Cache
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\Student Information System.xml
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\Student_Information_System.frmlogin.resources
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\Student_Information_System.frmmain.resources
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\Student_Information_System.frmadd.resources
+C:\Users\nestor\Desktop\Simple Student Information System\Student Information System\Student Information System\obj\Debug\Student_Information_System.frmedit.resources
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\bin\Debug\Student Information System.xml
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student Information System.vbprojResolveAssemblyReference.cache
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student_Information_System.frmadd.resources
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student_Information_System.frmedit.resources
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student_Information_System.frmlogin.resources
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student_Information_System.frmmain.resources
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student_Information_System.Resources.resources
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student Information System.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student Information System.vbproj.CoreCompileInputs.cache
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student Information System.xml
+F:\Sem.4\VB.net Trials\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student Information System.exe
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student Information System.xml
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student Information System.pdb
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\bin\Debug\Student Information System.exe
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\bin\Debug\Student Information System.pdb
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\bin\Debug\Student Information System.xml
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student Information System.vbprojResolveAssemblyReference.cache
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.frmadd.resources
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.frmedit.resources
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.frmlogin.resources
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.frmmain.resources
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.Resources.resources
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student Information System.vbproj.GenerateResource.Cache
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.aboutform.resources
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.frmprog.resources
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.frmutamaguru.resources
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.frmaddguru.resources
+C:\Users\indihomeuser\Desktop\STUDENT_INFORMATION_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\Student Information System VB.NET\Student Information System (simple)\Student Information System\obj\Debug\Student_Information_System.frmeditguru.resources
